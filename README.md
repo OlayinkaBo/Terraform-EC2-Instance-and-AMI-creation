@@ -1,1 +1,0 @@
-# Terraform-EC2-Instance-and-AMI-creation
